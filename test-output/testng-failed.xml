@@ -6,7 +6,7 @@
       <class name="com.webshop.testcase.LoginPageTest">
         <methods>
           <include name="teartown"/>
-          <include name="testForgotPasswordlink"/>
+          <include name="testLoginPageTest"/>
           <include name="setup"/>
         </methods>
       </class> <!-- com.webshop.testcase.LoginPageTest -->
